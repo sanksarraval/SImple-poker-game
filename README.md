@@ -1,1 +1,1 @@
-# SImple-poker-game
+# Simple-poker-game
